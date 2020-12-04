@@ -150,3 +150,8 @@ inner function 과 outer function 사이의 변수의 life cycle을 확인하는
 ![result 2-7](hw1/2/result_img/2-7.png)
 
 이전 예제에서, 함수를 변수형으로 선언하여 저장한 뒤 출력해보는 예제
+
+### 2-8
+![result 2-8](hw1/2/result_img/2-8.png)
+
+함수d를 선언하며 바로 변수 c에 담을 경우, d는 nodejs가 인식하지 못해 에러를 출력함.
