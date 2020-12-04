@@ -418,3 +418,8 @@ callback function 내부에 또 callback function을 사용하며, 인자로 nam
 ![result 4-14](hw2/4/result_img/4-14.png)
 
 Promise를 사용하여, 동기적 표현으로 callback function을 정의하는 예제.
+
+### 4-15
+![result 4-15](hw2/4/result_img/4-15.png)
+
+Promise를 함수 내부에 구현하여, 코드를 간략화 시키는 예제.
