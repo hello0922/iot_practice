@@ -160,3 +160,8 @@ inner function 과 outer function 사이의 변수의 life cycle을 확인하는
 ![result 2-9](hw1/2/result_img/2-9.png)
 
 함수표현식 변수가 사용보다 뒤에 정의되어, 에러가 발생.
+
+### 2-10
+![result 2-10](hw1/2/result_img/2-10.png)
+
+multiply 사용 당시에는 변수만 선언되어 있기에 function이 아니라고 인식하여 에러 발생.
