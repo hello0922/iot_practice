@@ -452,4 +452,6 @@ inner function의 함수를 전달받고, 전역공간에서 outer의 return 값
 ### 5-4
 ![result 5-4](hw2/5/result_img/5-4.png)
 
-setInterval callback function을 수행하고, 수행할 동작으로 inner function을 전달, inner function은 그 외부의 변수에 접근하여 처리한다.
+![result 5-4](hw2/5/result_img/5-4(1).png)
+
+setInterval과 button event listener의 callback function을 수행하고, 수행할 동작내부에서 그 외부의 변수에 접근하여 처리한다.
