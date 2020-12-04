@@ -185,3 +185,8 @@ inner function과 outer function의 global 변수 사용 차이에 대한 예제
 ![result 2-14](hw1/2/result_img/2-14.png)
 
 스코프 체인을 사용하였을 때의 동작과정에 대한 예제.
+
+### 2-15
+![result 2-15](hw1/2/result_img/2-15.png)
+
+스코프 체인을 사용하였을 때의 동작과정에 대한 예제. inner function에서 외부의 변수를 사용하였을 때.
