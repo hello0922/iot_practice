@@ -383,3 +383,8 @@ Array.prototype.map을 정의하는 예제. 예제에 test function을 추가하
 ![result 4-7](hw2/4/result_img/4-7.png)
 
 객체의 메소드로 함수를 호출할 때와, 함수의 임자로 객체의 메소드를 전달했을 때의 this 출력차이. forEach는 객체를 따로 지정해주지 않을경우 함수이기에 window가 출력됨.
+
+### 4-8
+![result 4-8](hw2/4/result_img/4-8.png)
+
+callback function에 객체의 메소드를 전달할 때 this는 전역객체인 window가 출력됨. 이에 this를 지정하기 위해 method에 self를 선언하고 이를 객체의 this로 매핑시켜, self에 접근하면, window가 아닌 객체 obj1에 접근할 수 있음.
