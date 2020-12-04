@@ -433,3 +433,8 @@ Generator를 사용하는 예제. yield를 만나면, 해당 함수의 callback 
 ![result 4-17](hw2/4/result_img/4-17.png)
 
 async와 await 을 사용하여, 비동기 작업을 수행. await이 쓰여진 코드는 수행 후 resolve되어야 다음 코드가 진행됨.
+
+### 5-1
+![result 5-1](hw2/5/result_img/5-1.png)
+
+inner function에서 outer function의 변수에 접근하는 예제.
