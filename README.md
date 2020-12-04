@@ -235,3 +235,8 @@ object의 함수를 호출할 때 점(.) 이나 문자열을 포함한 대괄호
 ![result 3-8](hw1/3/result_img/3-8.png)
 
 object의 함수를 호출할 때 점(.) 이나 문자열을 포함한 대괄호로 접근하면 method로 호출됨. (inner member추가)
+
+### 3-9
+![result 3-9](hw1/3/result_img/3-9.png)
+
+내부에서 함수의 호출 (innerFunc())로 호출할 경우 this는 호출한 객체를 명시하지 않아, window를 출력함.
