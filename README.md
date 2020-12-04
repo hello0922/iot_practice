@@ -292,3 +292,8 @@ apply 메소드를 사용에 대한 예제. parameter를 배열로 넘김.
 ![result 3-19](hw1/3/result_img/3-19.png)
 
 문자열의 경우 length가 read only property이기 때문에 에러가 발생, push를 주석처리 하고 실행할 경우,  concat은 정상적으로 동작함
+
+### 3-20
+![result 3-20](hw1/3/result_img/3-20.png)
+
+from method를 사용하는 예제.
