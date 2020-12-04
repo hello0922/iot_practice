@@ -83,3 +83,8 @@ Object안에 또 Object가 있기 때문에, copyObject를 2번함.
 ### 1-16
 Object안에 또 다른 Object가 있을 경우 recursive call로 모두 복사하는 함수를 정의하는 예제.
 
+### 1-17
+![result 1-17](hw1/1/result_img/1-17.png)
+
+예제 16의 함수를 사용하는 예제, 이를 응용하여, object 내부의 모든 필드를 출력하는 함수를 구현해보았습니다.
+
