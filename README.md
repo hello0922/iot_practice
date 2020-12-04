@@ -363,3 +363,8 @@ setInterval callback function을 호출하며, callback function의 수행내용
 ![result 4-3](hw2/4/result_img/4-3.png)
 
 Array의 map을 호출하여, array의 각 요소를 순회하며, 값과 인덱스를 출력하고 각 값을 5씩 더한다. console.log로 출력결과 선언의 값보다 모두 5씩 증가되어 있는 것을 확인할 수 있다.
+
+### 4-4
+![result 4-4](hw2/4/result_img/4-4.png)
+
+Array의 map을 호출할 때 인자의 순서 (index, currentValue)의 순서를 변경해보는 예제. callback function의 경우 순서대로 값이 전달되므로 이름과 관계없이, index가 0,1,2가 되고, currentValue가 0, 1, 2가 된다. 또한 currentValue를 5로 증가시켰기 때문에, console.log의 값은 5, 6, 7 (0, 1, 2에서 5씩 증가)이 된다.
