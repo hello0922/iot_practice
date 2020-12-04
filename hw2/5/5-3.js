@@ -18,4 +18,4 @@ var outer4 = outer3();
 console.log(outer2()); // 2
 console.log(outer2()); // 3
 console.log(outer4); // 2
-console.log(outer4); // 3
+console.log(outer4); // 2
