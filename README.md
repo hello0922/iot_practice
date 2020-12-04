@@ -373,3 +373,8 @@ Array의 map을 호출할 때 인자의 순서 (index, currentValue)의 순서�
 ![result 4-5](hw2/4/result_img/4-5.png)
 
 Array.prototype.map을 정의하는 예제. 예제에 test function을 추가하여 수행결과를 출력. callback function의 this를 지정할 수 있다.
+
+### 4-6
+![result 4-6](hw2/4/result_img/4-6.png)
+
+여러 상황에서의 this에 대한 예제. setTimeout의 callback function의 경우 전역객체를 출력하며, forEach 메소드의 경우 this를 지정해주지 않았기 때문에, 마찬가지로 전역객체를 출력하며, addEventListener의 경우 그 앞의 객체인 button#a를 this로 출력함.
