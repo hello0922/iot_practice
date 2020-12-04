@@ -337,3 +337,8 @@ inner function에 상위의 this를 넘겨주는 예제, call 메소드의 인�
 ![result 3-28](hw1/3/result_img/3-28.png)
 
 callback function에서 bind를 사용하여 this를 변경시키는 예제.
+
+### 3-29
+![result 3-29](hw1/3/result_img/3-29.png)
+
+arrow function을 사용하여, 스코프체인상 가장 가까운 this를 활용하는 예제.
