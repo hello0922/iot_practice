@@ -403,3 +403,8 @@ callback function에 객체의 메소드를 전달할 때 this는 전역객체�
 ![result 4-11](hw2/4/result_img/4-11.png)
 
 callback function의 인자로 메소드를 넘길 때, bind를 사용하여 this 객체를 지정하는 방법으로, this를 활용 가능하다.
+
+### 4-12
+![result 4-12](hw2/4/result_img/4-12.png)
+
+callback function 내부에 또 callback function을 사용하며, 인자로 name을 건네받아, string concat을 수행하는 예제.
