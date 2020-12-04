@@ -378,3 +378,8 @@ Array.prototype.map을 정의하는 예제. 예제에 test function을 추가하
 ![result 4-6](hw2/4/result_img/4-6.png)
 
 여러 상황에서의 this에 대한 예제. setTimeout의 callback function의 경우 전역객체를 출력하며, forEach 메소드의 경우 this를 지정해주지 않았기 때문에, 마찬가지로 전역객체를 출력하며, addEventListener의 경우 그 앞의 객체인 button#a를 this로 출력함.
+
+### 4-7
+![result 4-7](hw2/4/result_img/4-7.png)
+
+객체의 메소드로 함수를 호출할 때와, 함수의 임자로 객체의 메소드를 전달했을 때의 this 출력차이. forEach는 객체를 따로 지정해주지 않을경우 함수이기에 window가 출력됨.
