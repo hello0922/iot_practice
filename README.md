@@ -393,3 +393,8 @@ callback function에 객체의 메소드를 전달할 때 this는 전역객체�
 ![result 4-9](hw2/4/result_img/4-9.png)
 
 메소드 안에 self를 사용하지 않고, 해당 객체에 접근하여 출력하는 방식. this를 활용하지 않으므로, 활용이 어렵다.
+
+### 4-10
+![result 4-10](hw2/4/result_img/4-10.png)
+
+이전 예제와 마찬가지로, obj1.name을 출력하기 때문에 call을 활용하여 객체를 바꾸어도, name으로 obj1이 출력된다.
