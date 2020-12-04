@@ -230,3 +230,8 @@ inner function과 outer function의 global 변수 사용 차이에 대한 예제
 ![result 3-7](hw1/3/result_img/3-7.png)
 
 object의 함수를 호출할 때 점(.) 이나 문자열을 포함한 대괄호로 접근하면 method로 호출됨.
+
+### 3-8
+![result 3-8](hw1/3/result_img/3-8.png)
+
+object의 함수를 호출할 때 점(.) 이나 문자열을 포함한 대괄호로 접근하면 method로 호출됨. (inner member추가)
