@@ -92,3 +92,9 @@ Object안에 또 다른 Object가 있을 경우 recursive call로 모두 복사�
 ![result 1-18](hw1/1/result_img/1-18.png)
 
 JSON 모듈을 사용하여 오브젝트를 복사하는 예제, 이를 활용하여 오브젝트를 print하는 예제를 구현.
+
+### 1-19
+![result 1-19](hw1/1/result_img/1-19.png)
+
+undefined 값을 출력해보는 예제.
+
