@@ -105,3 +105,9 @@ undefined 값을 출력해보는 예제.
 
 empty array와 undefined array를 출력해보는 예제
 debugger for chrome으로 실행하지 않으면 console이 제대로 출력되지 않음.
+
+### 1-21
+![result 1-21](hw1/1/result_img/1-21.png)
+
+object의 요소를 사용하여 함수를 정의하고 바로 실행하는 예제
+
