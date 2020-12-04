@@ -428,3 +428,8 @@ Promise를 함수 내부에 구현하여, 코드를 간략화 시키는 예제.
 ![result 4-16](hw2/4/result_img/4-16.png)
 
 Generator를 사용하는 예제. yield를 만나면, 해당 함수의 callback function이 끝가지 전까지, 멈추어있음.
+
+### 4-17
+![result 4-17](hw2/4/result_img/4-17.png)
+
+async와 await 을 사용하여, 비동기 작업을 수행. await이 쓰여진 코드는 수행 후 resolve되어야 다음 코드가 진행됨.
