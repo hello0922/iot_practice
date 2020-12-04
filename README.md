@@ -220,3 +220,8 @@ inner function과 outer function의 global 변수 사용 차이에 대한 예제
 ![result 3-5](hw1/3/result_img/3-5.png)
 
 전역변수로 선언할 경우 삭제가 불가하지만, 전역객체 (window.c 혹은 d)로 선언할 경우 삭제가 가능함.
+
+### 3-6
+![result 3-6](hw1/3/result_img/3-6.png)
+
+전역공간에서 함수를 사용할 경우 this는 window가 되지만, object의 멤버로 활용될 경우, this는 멤버의 이름이 됨.
