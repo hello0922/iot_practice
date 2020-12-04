@@ -275,3 +275,8 @@ call method를 사용하여, this를 지정하였을 때의 차이에 대한 예
 ![result 3-16](hw1/3/result_img/3-16.png)
 
 apply 메소드를 사용에 대한 예제. parameter를 배열로 넘김.
+
+### 3-17
+![result 3-17](hw1/3/result_img/3-17.png)
+
+유사 배열에 push하는 예제.
