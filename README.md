@@ -280,3 +280,10 @@ apply 메소드를 사용에 대한 예제. parameter를 배열로 넘김.
 ![result 3-17](hw1/3/result_img/3-17.png)
 
 유사 배열에 push하는 예제.
+
+### 3-18
+![result 3-18](hw1/3/result_img/3-18.png)
+
+![result 3-18-1](hw1/3/result_img/3-18(1).png)
+
+유사배열을 잘라서 출력하는 예제
