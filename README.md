@@ -120,3 +120,8 @@ object의 요소를 사용하여 함수를 정의하고 바로 실행하는 예�
 ![result 2-1](hw1/2/result_img/2-1.png)
 
 inner function 과 outer function 사이의 변수의 life cycle을 확인하는 예제.
+
+### 2-2
+![result 2-2](hw1/2/result_img/2-2.png)
+
+함수의 paramter와 함수 내부의 변수이름이 같은 경우의 동작방식에 대한 예제.
