@@ -79,3 +79,7 @@ Object를 복사하고, 변경하며 같은지 비교하는 예제.
 
 Object를 복사하고, 변경하며 같은지 비교하는 예제.
 Object안에 또 Object가 있기 때문에, copyObject를 2번함.
+
+### 1-16
+Object안에 또 다른 Object가 있을 경우 recursive call로 모두 복사하는 함수를 정의하는 예제.
+
