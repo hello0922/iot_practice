@@ -348,3 +348,8 @@ arrow function을 사용하여, 스코프체인상 가장 가까운 this를 활�
 
 Object의 method argument를 활용하여 합, 개수, 평균을 구하는 예제 메소드의 인자로 자신의 요소를 활용하는 thisArg를 활용.
 average는 평균을 구하는 메소드로 되어있어, 변수를 생성하여 add 시에 average도 구하도록 변경하여봄.
+
+### 4-1
+![result 4-1](hw2/4/result_img/4-1.png)
+
+setInterval callback function을 호출하며, callback function의 수행내용을 바로 정의함. 300ms마다 count를 호출하여 증가시키며, count가 5가되면 clearInterval을 call해서 timer를 멈춘다.
