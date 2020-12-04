@@ -140,3 +140,8 @@ inner function 과 outer function 사이의 변수의 life cycle을 확인하는
 ![result 2-5](hw1/2/result_img/2-5.png)
 
 변수와 함수의 이름이 같을 때 동작과정에 대한 예제
+
+### 2-6
+![result 2-6](hw1/2/result_img/2-6.png)
+
+변수와 함수의 이름이 같을 때 출력 후, b에 문자열 값을 저장하였을 때 동작과정에 대한 예제
