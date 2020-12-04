@@ -455,3 +455,8 @@ inner function의 함수를 전달받고, 전역공간에서 outer의 return 값
 ![result 5-4](hw2/5/result_img/5-4(1).png)
 
 setInterval과 button event listener의 callback function을 수행하고, 수행할 동작내부에서 그 외부의 변수에 접근하여 처리한다.
+
+### 5-5
+![result 5-5](hw2/5/result_img/5-5.png)
+
+예제 5-3과 같이 inner function을 outer에 담는 예제. outer = null을 통해 클로저 메모리를 해제한다.
