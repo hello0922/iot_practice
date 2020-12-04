@@ -413,3 +413,8 @@ callback function 내부에 또 callback function을 사용하며, 인자로 nam
 ![result 4-13](hw2/4/result_img/4-13.png)
 
 함수의 변수를 사용하여, 가독성을 높인 코드, 수행내용과 출력결과는 예제 4-12과 같다.
+
+### 4-14
+![result 4-14](hw2/4/result_img/4-14.png)
+
+Promise를 사용하여, 동기적 표현으로 callback function을 정의하는 예제.
