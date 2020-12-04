@@ -175,3 +175,8 @@ multiply 사용 당시에는 변수만 선언되어 있기에 function이 아니
 ![result 2-12](hw1/2/result_img/2-12.png)
 
 이전 예제와 달리, 함수가 변수 할당이기 때문에, 인식을 하지 못해 에러가 발생함.
+
+### 2-13
+![result 2-13](hw1/2/result_img/2-13.png)
+
+inner function과 outer function의 global 변수 사용 차이에 대한 예제.
