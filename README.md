@@ -315,3 +315,8 @@ apply를 사용하여, Math.max 메소드에 여러 인자를 배열로 묶어 �
 ![result 3-24](hw1/3/result_img/3-24.png)
 
 spread operator를 사용하여 Math.max와 min 메소드에 배열을 인자로 전달하는 예제.
+
+### 3-25
+![result 3-25](hw1/3/result_img/3-25.png)
+
+bind 메소드를 활용하는 예제. 함수를 바로 호출하지 않고, this와 매개변수를 전달받아 새로운 함수로 복사하여 넘긴다.
