@@ -269,9 +269,9 @@ call method를 사용하여, this를 지정하여 넘김
 ### 3-15
 ![result 3-15](hw1/3/result_img/3-15.png)
 
-call method를 사용하여, this를 지정하여 넘김
+call method를 사용하여, this를 지정하였을 때의 차이에 대한 예제, call에서 a를 지정하면 a의 값이 지정된 값으로 출력됨.
 
-### 3-15
+### 3-16
 ![result 3-16](hw1/3/result_img/3-16.png)
 
-call method를 사용하여, this를 지정하였을 때의 차이에 대한 예제, call에서 a를 지정하면 a의 값이 지정된 값으로 출력됨.
+apply 메소드를 사용에 대한 예제. parameter를 배열로 넘김.
