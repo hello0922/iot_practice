@@ -250,3 +250,8 @@ object의 함수를 호출할 때 점(.) 이나 문자열을 포함한 대괄호
 ![result 3-11](hw1/3/result_img/3-11.png)
 
 arrow function을 사용하여, this를 그대로 활용 가능
+
+### 3-12
+![result 3-12](hw1/3/result_img/3-12.png)
+
+event function을 사용하였을 때의 this 예제.
