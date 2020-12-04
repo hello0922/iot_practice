@@ -155,3 +155,8 @@ inner function 과 outer function 사이의 변수의 life cycle을 확인하는
 ![result 2-8](hw1/2/result_img/2-8.png)
 
 함수d를 선언하며 바로 변수 c에 담을 경우, d는 nodejs가 인식하지 못해 에러를 출력함.
+
+### 2-9
+![result 2-9](hw1/2/result_img/2-9.png)
+
+함수표현식 변수가 사용보다 뒤에 정의되어, 에러가 발생.
