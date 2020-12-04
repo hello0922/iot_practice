@@ -260,3 +260,8 @@ event function을 사용하였을 때의 this 예제.
 ![result 3-13](hw1/3/result_img/3-13.png)
 
 생성자 내부에서의 this에 대한 예제. 생성자로 호출될 경우, 할당하는 객체를 this로 가리킴
+
+### 3-14
+![result 3-14](hw1/3/result_img/3-14.png)
+
+call method를 사용하여, this를 지정하여 넘김
