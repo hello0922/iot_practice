@@ -398,3 +398,8 @@ callback function에 객체의 메소드를 전달할 때 this는 전역객체�
 ![result 4-10](hw2/4/result_img/4-10.png)
 
 이전 예제와 마찬가지로, obj1.name을 출력하기 때문에 call을 활용하여 객체를 바꾸어도, name으로 obj1이 출력된다.
+
+### 4-11
+![result 4-11](hw2/4/result_img/4-11.png)
+
+callback function의 인자로 메소드를 넘길 때, bind를 사용하여 this 객체를 지정하는 방법으로, this를 활용 가능하다.
