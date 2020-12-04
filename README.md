@@ -342,3 +342,9 @@ callback function에서 bind를 사용하여 this를 변경시키는 예제.
 ![result 3-29](hw1/3/result_img/3-29.png)
 
 arrow function을 사용하여, 스코프체인상 가장 가까운 this를 활용하는 예제.
+
+### 3-30
+![result 3-30](hw1/3/result_img/3-30.png)
+
+Object의 method argument를 활용하여 합, 개수, 평균을 구하는 예제.
+average는 평균을 구하는 메소드로 되어있어, 변수를 생성하여 add 시에 average도 구하도록 변경하여봄.
