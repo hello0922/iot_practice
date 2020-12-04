@@ -195,3 +195,8 @@ inner function과 outer function의 global 변수 사용 차이에 대한 예제
 ![result 2-16](hw1/2/result_img/2-16.png)
 
 스코프 체인을 사용하였을 때의 동작과정에 대한 예제. inner function에서 외부의 변수를 사용하였을 때2.
+
+### 3-1
+![result 3-1](hw1/3/result_img/3-1.png)
+
+전연 공간에서 this와 window의 비교.
