@@ -353,3 +353,8 @@ average는 평균을 구하는 메소드로 되어있어, 변수를 생성하여
 ![result 4-1](hw2/4/result_img/4-1.png)
 
 setInterval callback function을 호출하며, callback function의 수행내용을 바로 정의함. 300ms마다 count를 호출하여 증가시키며, count가 5가되면 clearInterval을 call해서 timer를 멈춘다.
+
+### 4-2
+![result 4-2](hw2/4/result_img/4-2.png)
+
+setInterval callback function을 호출하며, callback function의 수행내용을 바로 정의하는 이전 예제와 달리, 함수를 미리 정의해두고 setInterval function의 인자로 넘긴다. 수행내용은 이전과 같다.
