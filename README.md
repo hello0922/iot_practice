@@ -225,3 +225,8 @@ inner function과 outer function의 global 변수 사용 차이에 대한 예제
 ![result 3-6](hw1/3/result_img/3-6.png)
 
 전역공간에서 함수를 사용할 경우 this는 window가 되지만, object의 멤버로 활용될 경우, this는 멤버의 이름이 됨.
+
+### 3-7
+![result 3-7](hw1/3/result_img/3-7.png)
+
+object의 함수를 호출할 때 점(.) 이나 문자열을 포함한 대괄호로 접근하면 method로 호출됨.
