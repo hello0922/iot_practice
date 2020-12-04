@@ -310,3 +310,8 @@ min과 max를 구하는 기본예제
 ![result 3-23](hw1/3/result_img/3-23.png)
 
 apply를 사용하여, Math.max 메소드에 여러 인자를 배열로 묶어 전달하는 예제.
+
+### 3-24
+![result 3-24](hw1/3/result_img/3-24.png)
+
+spread operator를 사용하여 Math.max와 min 메소드에 배열을 인자로 전달하는 예제.
