@@ -346,5 +346,5 @@ arrow function을 사용하여, 스코프체인상 가장 가까운 this를 활�
 ### 3-30
 ![result 3-30](hw1/3/result_img/3-30.png)
 
-Object의 method argument를 활용하여 합, 개수, 평균을 구하는 예제.
+Object의 method argument를 활용하여 합, 개수, 평균을 구하는 예제 메소드의 인자로 자신의 요소를 활용하는 thisArg를 활용.
 average는 평균을 구하는 메소드로 되어있어, 변수를 생성하여 add 시에 average도 구하도록 변경하여봄.
