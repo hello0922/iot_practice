@@ -325,3 +325,10 @@ bind 메소드를 활용하는 예제. 함수를 바로 호출하지 않고, thi
 ![result 3-26](hw1/3/result_img/3-26.png)
 
 bind 메소드 사용시의 name 프로퍼티 변경에 대한 예제. 원래의 name 프로퍼티는 함수변수의 이름이었지만, bind를 하였을 경우 name은 원래 함수의 이름의 앞에 bound가 붙는다.
+
+### 3-27
+![result 3-27](hw1/3/result_img/3-27.png)
+
+![result 3-27-1](hw1/3/result_img/3-27(1).png)
+
+inner function에 상위의 this를 넘겨주는 예제, call 메소드의 인자로 this를 넘겨주는 방식과, inner function을 정의할 때 bind를 활용하는 방법이 있다.
