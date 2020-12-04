@@ -245,3 +245,8 @@ object의 함수를 호출할 때 점(.) 이나 문자열을 포함한 대괄호
 ![result 3-10](hw1/3/result_img/3-10.png)
 
 함수정의 전, self에 this을 연결시켜 주었기 때문에, 객체를 명시하였으므로, window가 아닌 outer를 출력함.
+
+### 3-11
+![result 3-11](hw1/3/result_img/3-11.png)
+
+arrow function을 사용하여, this를 그대로 활용 가능
