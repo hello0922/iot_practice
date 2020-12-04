@@ -443,3 +443,8 @@ inner function에서 outer function의 변수에 접근하는 예제.
 ![result 5-2](hw2/5/result_img/5-2.png)
 
 inner function에서 outer function의 값을 증가시키고 return하는 예제.
+
+### 5-3
+![result 5-3](hw2/5/result_img/5-3.png)
+
+inner function의 함수를 전달받고, 전역공간에서 outer의 return 값인 inner를 실행하는 예제. 이전 예제는 inner()의 결과값을 받아왔지만 현재는 function을 받아와서 직접 실행함.
