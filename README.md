@@ -205,3 +205,8 @@ inner function과 outer function의 global 변수 사용 차이에 대한 예제
 ![result 3-2](hw1/3/result_img/3-2.png)
 
 전연 공간에서 this와 global의 비교. 윈도우 크롬에서는 전역공간에서 global을 인식하지 못한다.
+
+### 3-3
+![result 3-3](hw1/3/result_img/3-3.png)
+
+전역공간에서의 변수 접근에 대한 예제. 전역공간이기 때문에 a, window.a, this.a 모두 같은 값을 출력한다.
