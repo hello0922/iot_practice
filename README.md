@@ -215,3 +215,8 @@ inner function과 outer function의 global 변수 사용 차이에 대한 예제
 ![result 3-4](hw1/3/result_img/3-4.png)
 
 전역공간에서 변수 변경에 대한 예제. 모두 같은 공간을 가리키므로, 같은 값을 출력함.
+
+### 3-5
+![result 3-5](hw1/3/result_img/3-5.png)
+
+전역변수로 선언할 경우 삭제가 불가하지만, 전역객체 (window.c 혹은 d)로 선언할 경우 삭제가 가능함.
