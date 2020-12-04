@@ -165,3 +165,8 @@ inner function 과 outer function 사이의 변수의 life cycle을 확인하는
 ![result 2-10](hw1/2/result_img/2-10.png)
 
 multiply 사용 당시에는 변수만 선언되어 있기에 function이 아니라고 인식하여 에러 발생.
+
+### 2-11
+![result 2-11](hw1/2/result_img/2-11.png)
+
+출력문은 마지막 함수를 따라가서 출력됨.
