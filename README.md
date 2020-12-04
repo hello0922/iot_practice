@@ -73,3 +73,9 @@ Object를 인자로 받아들여, 내부의 모든 멤버변수를 copy하는 �
 ![result 1-14](hw1/1/result_img/1-14.png)
 
 Object를 복사하고, 변경하며 같은지 비교하는 예제.
+
+### 1-15
+![result 1-15](hw1/1/result_img/1-15.png)
+
+Object를 복사하고, 변경하며 같은지 비교하는 예제.
+Object안에 또 Object가 있기 때문에, copyObject를 2번함.
