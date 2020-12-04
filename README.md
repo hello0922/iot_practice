@@ -358,3 +358,8 @@ setInterval callback function을 호출하며, callback function의 수행내용
 ![result 4-2](hw2/4/result_img/4-2.png)
 
 setInterval callback function을 호출하며, callback function의 수행내용을 바로 정의하는 이전 예제와 달리, 함수를 미리 정의해두고 setInterval function의 인자로 넘긴다. 수행내용은 이전과 같다.
+
+### 4-3
+![result 4-3](hw2/4/result_img/4-3.png)
+
+Array의 map을 호출하여, array의 각 요소를 순회하며, 값과 인덱스를 출력하고 각 값을 5씩 더한다. console.log로 출력결과 선언의 값보다 모두 5씩 증가되어 있는 것을 확인할 수 있다.
