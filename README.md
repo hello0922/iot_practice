@@ -127,6 +127,11 @@ inner function 과 outer function 사이의 변수의 life cycle을 확인하는
 함수의 paramter와 함수 내부의 변수이름이 같은 경우의 동작방식에 대한 예제.
 
 ### 2-3
-![result 2-2](hw1/2/result_img/2-3.png)
+![result 2-3](hw1/2/result_img/2-3.png)
 
 함수 내부에서 변숙를 여러번 정의할때의 동작방식에 대한 예제.
+
+### 2-4
+![result 2-4](hw1/2/result_img/2-4.png)
+
+함수내부에서 x를 여러번 선언한 뒤, 값을 대입할 때의 동작방식에 대한 예제.
