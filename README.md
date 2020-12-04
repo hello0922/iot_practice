@@ -448,3 +448,8 @@ inner function에서 outer function의 값을 증가시키고 return하는 예�
 ![result 5-3](hw2/5/result_img/5-3.png)
 
 inner function의 함수를 전달받고, 전역공간에서 outer의 return 값인 inner를 실행하는 예제. 이전 예제는 inner()의 결과값을 받아왔지만 현재는 function을 받아와서 직접 실행함.
+
+### 5-4
+![result 5-4](hw2/5/result_img/5-4.png)
+
+setInterval callback function을 수행하고, 수행할 동작으로 inner function을 전달, inner function은 그 외부의 변수에 접근하여 처리한다.
