@@ -438,3 +438,8 @@ async와 await 을 사용하여, 비동기 작업을 수행. await이 쓰여진 
 ![result 5-1](hw2/5/result_img/5-1.png)
 
 inner function에서 outer function의 변수에 접근하는 예제.
+
+### 5-2
+![result 5-2](hw2/5/result_img/5-2.png)
+
+inner function에서 outer function의 값을 증가시키고 return하는 예제.
