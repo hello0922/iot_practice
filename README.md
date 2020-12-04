@@ -408,3 +408,8 @@ callback function의 인자로 메소드를 넘길 때, bind를 사용하여 thi
 ![result 4-12](hw2/4/result_img/4-12.png)
 
 callback function 내부에 또 callback function을 사용하며, 인자로 name을 건네받아, string concat을 수행하는 예제.
+
+### 4-13
+![result 4-13](hw2/4/result_img/4-13.png)
+
+함수의 변수를 사용하여, 가독성을 높인 코드, 수행내용과 출력결과는 예제 4-12과 같다.
