@@ -320,3 +320,8 @@ spread operator를 사용하여 Math.max와 min 메소드에 배열을 인자로
 ![result 3-25](hw1/3/result_img/3-25.png)
 
 bind 메소드를 활용하는 예제. 함수를 바로 호출하지 않고, this와 매개변수를 전달받아 새로운 함수로 복사하여 넘긴다.
+
+### 3-26
+![result 3-26](hw1/3/result_img/3-26.png)
+
+bind 메소드 사용시의 name 프로퍼티 변경에 대한 예제. 원래의 name 프로퍼티는 함수변수의 이름이었지만, bind를 하였을 경우 name은 원래 함수의 이름의 앞에 bound가 붙는다.
