@@ -240,3 +240,8 @@ object의 함수를 호출할 때 점(.) 이나 문자열을 포함한 대괄호
 ![result 3-9](hw1/3/result_img/3-9.png)
 
 내부에서 함수의 호출 (innerFunc())로 호출할 경우 this는 호출한 객체를 명시하지 않아, window를 출력함.
+
+### 3-10
+![result 3-10](hw1/3/result_img/3-10.png)
+
+함수정의 전, self에 this을 연결시켜 주었기 때문에, 객체를 명시하였으므로, window가 아닌 outer를 출력함.
