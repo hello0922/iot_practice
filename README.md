@@ -305,3 +305,8 @@ from method를 사용하는 예제.
 ![result 3-22](hw1/3/result_img/3-22.png)
 
 min과 max를 구하는 기본예제
+
+### 3-23
+![result 3-23](hw1/3/result_img/3-23.png)
+
+apply를 사용하여, Math.max 메소드에 여러 인자를 배열로 묶어 전달하는 예제.
