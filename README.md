@@ -297,3 +297,6 @@ apply 메소드를 사용에 대한 예제. parameter를 배열로 넘김.
 ![result 3-20](hw1/3/result_img/3-20.png)
 
 from method를 사용하는 예제.
+
+### 3-21
+생성자 내부에서 다른 생성ㅈ다를 호출하는 예제.
