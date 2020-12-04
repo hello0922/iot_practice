@@ -332,3 +332,8 @@ bind 메소드 사용시의 name 프로퍼티 변경에 대한 예제. 원래의
 ![result 3-27-1](hw1/3/result_img/3-27(1).png)
 
 inner function에 상위의 this를 넘겨주는 예제, call 메소드의 인자로 this를 넘겨주는 방식과, inner function을 정의할 때 bind를 활용하는 방법이 있다.
+
+### 3-28
+![result 3-28](hw1/3/result_img/3-28.png)
+
+callback function에서 bind를 사용하여 this를 변경시키는 예제.
