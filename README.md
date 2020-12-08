@@ -465,3 +465,8 @@ setInterval과 button event listener의 callback function을 수행하고, 수�
 
 예제 5-3과 같이 inner function을 outer에 담는 예제. null 할당을 통해 클로저 메모리를 해제한다.
 10 번의 call이 지나간 후로는 클로저 메모리가 끊기기 때문에 더이상 call이 발생하지 않는다.
+
+### 5-6
+![result 5-6](hw2/5/result_img/5-6.png)
+
+클로저를 통해 현재 객체의 이름을 가져와 eventListener의 매개변수로 사용한다.
