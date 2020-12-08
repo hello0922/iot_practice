@@ -459,4 +459,9 @@ setInterval과 button event listener의 callback function을 수행하고, 수�
 ### 5-5
 ![result 5-5](hw2/5/result_img/5-5.png)
 
-예제 5-3과 같이 inner function을 outer에 담는 예제. outer = null을 통해 클로저 메모리를 해제한다.
+![result 5-5-1](hw2/5/result_img/5-5(1).png)
+
+![result 5-5-2](hw2/5/result_img/5-5(2).png)
+
+예제 5-3과 같이 inner function을 outer에 담는 예제. null 할당을 통해 클로저 메모리를 해제한다.
+10 번의 call이 지나간 후로는 클로저 메모리가 끊기기 때문에 더이상 call이 발생하지 않는다.
