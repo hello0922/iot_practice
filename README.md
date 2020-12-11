@@ -510,3 +510,9 @@ bind 메소드를 사용하여, addPartial 객체를 만들고, addPartial을 �
 ![result 5-14](hw2/5/result_img/5-14.png)
 
 partial 함수를 만들어, concat과 apply를 통해, 원본함수와 미리 적용할 인자들을 매개변수로 하여 객체를 만들고, 이후 해당 객체함수를 호출하여 이어 붙인다.
+
+### 5-15
+![result 5-15](hw2/5/result_img/5-15.png)
+
+define property를 통해, _ (EMPTY_SPACE)를 만들고 partial 함수를 정의해 shift로 해당 칸을 건너뛰게 만든다.
+이후 호출할 때의 매개변수에는 해당 칸에 순서대로 삽입되어, 나타난다. (확인을 위해 string add 함수 추가.)
