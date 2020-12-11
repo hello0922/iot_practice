@@ -485,3 +485,8 @@ setInterval과 button event listener의 callback function을 수행하고, 수�
 ![result 5-9](hw2/5/result_img/5-9.png)
 
 콜백함수 내부에 function을 정의하며, 매개변수를 전달, 클로저를 통해 객체에 접근해 텍스트를 출력할 수 있게 된다.
+
+### 5-10
+![result 5-10](hw2/5/result_img/5-10.png)
+
+객체를 바로 정의하면, 내부의 모든 변수에 접근이 가능하기 때문에, 수정하면 안되는 값을 수정할 수 있다. (예제 에서는 fuel과 power 값을 변경)
