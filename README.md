@@ -480,3 +480,8 @@ setInterval과 button event listener의 callback function을 수행하고, 수�
 ![result 5-8](hw2/5/result_img/5-8.png)
 
 외부의 함수에서 객체를 참조하기 위해서 bind로 넘기면, 콜백함수에서 객체를 알 수 있게되어, 텍스트를 출력할 수 있게 된다.
+
+### 5-9
+![result 5-9](hw2/5/result_img/5-9.png)
+
+콜백함수 내부에 function을 정의하며, 매ㅑ개변수를 전달, 클로저를 통해 객체에 접근해 텍스트를 출력할 수 있게 된다.
