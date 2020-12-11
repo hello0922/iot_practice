@@ -490,3 +490,8 @@ setInterval과 button event listener의 callback function을 수행하고, 수�
 ![result 5-10](hw2/5/result_img/5-10.png)
 
 객체를 바로 정의하면, 내부의 모든 변수에 접근이 가능하기 때문에, 수정하면 안되는 값을 수정할 수 있다. (예제 에서는 fuel과 power 값을 변경)
+
+### 5-11
+![result 5-11](hw2/5/result_img/5-11.png)
+
+객체를 함수를 통해 정의하여, 함수 내부에서 객체를 반환하게 하고, 내부의 함수에서 외부의 변수에 접근하게 하면 수정하면 안되는 값을 접근하지 못하게 막을 수 있다.
