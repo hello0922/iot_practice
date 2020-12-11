@@ -484,4 +484,4 @@ setInterval과 button event listener의 callback function을 수행하고, 수�
 ### 5-9
 ![result 5-9](hw2/5/result_img/5-9.png)
 
-콜백함수 내부에 function을 정의하며, 매ㅑ개변수를 전달, 클로저를 통해 객체에 접근해 텍스트를 출력할 수 있게 된다.
+콜백함수 내부에 function을 정의하며, 매개변수를 전달, 클로저를 통해 객체에 접근해 텍스트를 출력할 수 있게 된다.
