@@ -500,3 +500,9 @@ setInterval과 button event listener의 callback function을 수행하고, 수�
 ![result 5-12](hw2/5/result_img/5-12.png)
 
 freeze를 통해서 객체 내부의 모든 속성을 수정할 수 없게 만든다. 이전 예제에서 fuel:10000으로 변경은 되나, 내부에서 사용하는 fuel과 별도로 동작하여, 남은 연료의 출력에 변화가 없었던 것과 달리, 현재는 fuel 자체도 변경이 되지 않는다.
+
+### 5-13
+![result 5-13](hw2/5/result_img/5-13.png)
+
+bind 메소드를 사용하여, addPartial 객체를 만들고, addPartial을 호출할 때 매개변수를 더 전달하여, 계산에 영향을 미친다.
+
