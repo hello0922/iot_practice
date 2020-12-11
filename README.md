@@ -475,3 +475,8 @@ setInterval과 button event listener의 callback function을 수행하고, 수�
 ![result 5-7](hw2/5/result_img/5-7.png)
 
 콜백함수가 밖에 선언되어 fruit를 참조하지 못해, 클릭한 텍스트를 가져오지 못한다.
+
+### 5-8
+![result 5-8](hw2/5/result_img/5-8.png)
+
+외부의 함수에서 객체를 참조하기 위해서 bind로 넘기면, 콜백함수에서 객체를 알 수 있게되어, 텍스트를 출력할 수 있게 된다.
