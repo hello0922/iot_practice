@@ -584,3 +584,8 @@ Object의 prototype에 getEntries 메소드를 정의하고 이를 받아오는 
 ![result 7-1](hw3/7/result_img/7-1.png)
 
 객체타입의 isRectangle을 정의하면 클래스타입의 isRectangle 메소드로써는 (Rectangle.isRectangle) 사용할 수 있으나, prototype 속성을 사용하지 않아, 생성된 객체에서는 (rect1.isRectangle) 사용할 수 없다.
+
+### 7-2
+![result 7-2](hw3/7/result_img/7-2.png)
+
+클래스의 prototype을 빈배열로 할당하여, 결과 값이 다르게 나온다. Grade 객체도 배열로 인식이 된다.
