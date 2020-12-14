@@ -529,3 +529,8 @@ mouse event에 따라서, 콘솔결과를 출력하는 예제.
 ![result 5-18](hw2/5/result_img/5-18.png)
 
 여러 단계의 커링을 실행하는 예제.
+
+### 6-1
+![result 6-1](hw3/6/result_img/6-1.png)
+
+객체의 prototype 속성을 이용하여 메소드를 정의하는 예제.
