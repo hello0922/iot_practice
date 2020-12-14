@@ -589,3 +589,8 @@ Object의 prototype에 getEntries 메소드를 정의하고 이를 받아오는 
 ![result 7-2](hw3/7/result_img/7-2.png)
 
 클래스의 prototype을 빈배열로 할당하여, 결과 값이 다르게 나온다. Grade 객체도 배열로 인식이 된다.
+
+### 7-3
+![result 7-3](hw3/7/result_img/7-3.png)
+
+Grade 클래스는 prototype으로 배열을 상속하였으나, 일반 객체의 성질을 가져 length의 값을 삭제할 수 있어, length가 삭제되고, 이에 push를 할 경우 length를 0으로 인식하여 0번째 인덱스에 70을 할당하고 1증가하여 length는 1, 그러나 값의 실제 길이는 3이 되는 이상한 현상을 보인다.
