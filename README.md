@@ -566,6 +566,6 @@ prototype을 통해 메소드를 정의하더라도, 객체를 생성하고 객�
 hasOwnProperty를 통해 객체에 해당 속성이 있는지 확인한다. array의 경우 index가 속성으로 잡히기 때문에, 4 값을 갖고 있더라도 4번 인덱스가 추가되기 전에는 hasOwnProperty(4)의 값이 false가 나온다.
 
 ### 6-8
-![result 6-7](hw3/6/result_img/6-8.png)
+![result 6-8](hw3/6/result_img/6-8.png)
 
 객체를 생성하고 해당 객체의 메소드를 변경하면, 기존의 메소드를 덮어씌우게 된다. 이 때, 그 전의 객체 속성의 메소드를 사용하면, (예제에서는 Array.prototype.toString.call) 기존 객체의 메소드로써 동작하게 된다.
