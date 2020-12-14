@@ -534,3 +534,8 @@ mouse event에 따라서, 콘솔결과를 출력하는 예제.
 ![result 6-1](hw3/6/result_img/6-1.png)
 
 객체의 prototype 속성을 이용하여 메소드를 정의하는 예제.
+
+### 6-2
+![result 6-2](hw3/6/result_img/6-2.png)
+
+객체의 prototype 속성을 이용하여 메소드와 내부 속성(변수)을 정의하는 예제.
