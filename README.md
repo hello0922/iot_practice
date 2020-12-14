@@ -594,3 +594,8 @@ Object의 prototype에 getEntries 메소드를 정의하고 이를 받아오는 
 ![result 7-3](hw3/7/result_img/7-3.png)
 
 Grade 클래스는 prototype으로 배열을 상속하였으나, 일반 객체의 성질을 가져 length의 값을 삭제할 수 있어, length가 삭제되고, 이에 push를 할 경우 length를 0으로 인식하여 0번째 인덱스에 70을 할당하고 1증가하여 length는 1, 그러나 값의 실제 길이는 3이 되는 이상한 현상을 보인다.
+
+### 7-4
+![result 7-4](hw3/7/result_img/7-4.png)
+
+prototype의 배열을 빈배열이 아닌 'a','b','c','d' 4개의 요소를 가진 배열로 할당할 경우, __proto__의 값이 4의 length를 가지는 array이기 때문에 length를 삭제하면 __proto__의 length를 확인하여, 4를 보고, 4 인덱스에 push하기 때문에, 중간 값이 emtpy로 나온다.
