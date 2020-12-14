@@ -544,3 +544,8 @@ mouse event에 따라서, 콘솔결과를 출력하는 예제.
 ![result 6-3](hw3/6/result_img/6-3.png)
 
 arr변수는 Array로써 생성되었기 때문에 Array의 prototype의 constructor 속성과 일치한다.
+
+### 6-4
+![result 6-4](hw3/6/result_img/6-4.png)
+
+constructor 속성에 NewcONstructor를 대입을 하면, 상수가 아닌 객체들은 NewConstructor라는 이름을 출력하나, 실제 속성을 비교하였을 때, false 값을 출력한다. 해당 예제에서 dataTypes 객체에, NewConstructor 멤버를 추가하면 해당 멤버만 true 값을 반환한다.
