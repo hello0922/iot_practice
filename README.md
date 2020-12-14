@@ -579,3 +579,8 @@ Object의 prototype에 getEntries 메소드를 정의하고 이를 받아오는 
 ![result 6-10](hw3/6/result_img/6-10.png)
 
 객체의 생성자 메소드에서, arguments들을 Array의 slice 메소드를 사용하여 값을 생성하는 예제.
+
+### 7-1
+![result 7-1](hw3/7/result_img/7-1.png)
+
+객체타입의 isRectangle을 정의하면 클래스타입의 isRectangle 메소드로써는 (Rectangle.isRectangle) 사용할 수 있으나, prototype 속성을 사용하지 않아, 생성된 객체에서는 (rect1.isRectangle) 사용할 수 없다.
