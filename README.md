@@ -555,8 +555,12 @@ constructor 속성에 NewcONstructor를 대입을 하면, 상수가 아닌 객�
 
 다양한 방법을 통해, 객체의 constructor를 호출한다. 또한 Object.getPrototypeOf를 통해 해당 객체가 갖고 있는 prototype의 속성들을 가져온다.
 
-
 ### 6-6
 ![result 6-6](hw3/6/result_img/6-6.png)
 
 prototype을 통해 메소드를 정의하더라도, 객체를 생성하고 객체의 속성에 접근하여 메소드를 변경할 수 있다.
+
+### 6-7
+![result 6-7](hw3/6/result_img/6-7.png)
+
+hasOwnProperty를 통해 객체에 해당 속성이 있는지 확인한다. array의 경우 index가 속성으로 잡히기 때문에, 4 값을 갖고 있더라도 4번 인덱스가 추가되기 전에는 hasOwnProperty(4)의 값이 false가 나온다.
