@@ -549,3 +549,8 @@ arr변수는 Array로써 생성되었기 때문에 Array의 prototype의 constru
 ![result 6-4](hw3/6/result_img/6-4.png)
 
 constructor 속성에 NewcONstructor를 대입을 하면, 상수가 아닌 객체들은 NewConstructor라는 이름을 출력하나, 실제 속성을 비교하였을 때, false 값을 출력한다. 해당 예제에서 dataTypes 객체에, NewConstructor 멤버를 추가하면 해당 멤버만 true 값을 반환한다.
+
+### 6-5
+![result 6-5](hw3/6/result_img/6-5.png)
+
+다양한 방법을 통해, 객체의 constructor를 호출한다. 또한 Object.getPrototypeOf를 통해 해당 객체가 갖고 있는 prototype의 속성들을 가져온다.
