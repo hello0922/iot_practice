@@ -539,3 +539,8 @@ mouse event에 따라서, 콘솔결과를 출력하는 예제.
 ![result 6-2](hw3/6/result_img/6-2.png)
 
 객체의 prototype 속성을 이용하여 메소드와 내부 속성(변수)을 정의하는 예제.
+
+### 6-3
+![result 6-3](hw3/6/result_img/6-3.png)
+
+arr변수는 Array로써 생성되었기 때문에 Array의 prototype의 constructor 속성과 일치한다.
