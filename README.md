@@ -610,3 +610,8 @@ prototype의 배열을 빈배열이 아닌 'a','b','c','d' 4개의 요소를 가
 
 예제 7-5와 같지만, Square의 멤버가 width만이 아닌 height도 추가하였다.
 Rectangle과 Square는 아무런 연관이 없지만, 멤버 (변수 & 메소드)의 이름이 일치한다.
+
+### 7-7
+![result 7-7](hw3/7/result_img/7-7.png)
+
+예제 7-5, 7-6과 같지만, Square의 생성자를 Rectangle.call 메소드와 prototype = Rectangle로 연결하였기 때문에 __proto__는 Rectangle이 된다. 이로써, Rectangle과 Square는 체이닝 관계가 생성된다.
