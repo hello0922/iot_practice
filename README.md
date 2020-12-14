@@ -574,3 +574,8 @@ hasOwnProperty를 통해 객체에 해당 속성이 있는지 확인한다. arra
 ![result 6-9](hw3/6/result_img/6-9.png)
 
 Object의 prototype에 getEntries 메소드를 정의하고 이를 받아오는 예제. 345의 숫자와 false의 boolean 타입은 객체가 아니기 때문에 getEntries 메소드의 hasOwnProperty에 걸리지 않아 아무것도 출력하지 않는다.
+
+### 6-10
+![result 6-10](hw3/6/result_img/6-10.png)
+
+객체의 생성자 메소드에서, arguments들을 Array의 slice 메소드를 사용하여 값을 생성하는 예제.
