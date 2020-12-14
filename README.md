@@ -604,3 +604,9 @@ prototype의 배열을 빈배열이 아닌 'a','b','c','d' 4개의 요소를 가
 ![result 7-5](hw3/7/result_img/7-5.png)
 
 각 객체 클래스의 prototype의 getArea 메소드를 정의하여, 실행하는 예제. Rectangle과 Square는 해당 예제에서 아무런 연관이 없다.
+
+### 7-6
+![result 7-6](hw3/7/result_img/7-6.png)
+
+예제 7-5와 같지만, Square의 멤버가 width만이 아닌 height도 추가하였다.
+Rectangle과 Square는 아무런 연관이 없지만, 멤버 (변수 & 메소드)의 이름이 일치한다.
