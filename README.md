@@ -452,7 +452,7 @@ inner function의 함수를 전달받고, 전역공간에서 outer의 return 값
 ### 5-4
 ![result 5-4](hw2/5/result_img/5-4.png)
 
-![result 5-4](hw2/5/result_img/5-4(1).png)
+![result 5-4-1](hw2/5/result_img/5-4(1).png)
 
 setInterval과 button event listener의 callback function을 수행하고, 수행할 동작내부에서 그 외부의 변수에 접근하여 처리한다.
 
@@ -569,3 +569,8 @@ hasOwnProperty를 통해 객체에 해당 속성이 있는지 확인한다. arra
 ![result 6-8](hw3/6/result_img/6-8.png)
 
 객체를 생성하고 해당 객체의 메소드를 변경하면, 기존의 메소드를 덮어씌우게 된다. 이 때, 그 전의 객체 속성의 메소드를 사용하면, (예제에서는 Array.prototype.toString.call) 기존 객체의 메소드로써 동작하게 된다.
+
+### 6-9
+![result 6-9](hw3/6/result_img/6-9.png)
+
+Object의 prototype에 getEntries 메소드를 정의하고 이를 받아오는 예제. 345의 숫자와 false의 boolean 타입은 객체가 아니기 때문에 getEntries 메소드의 hasOwnProperty에 걸리지 않아 아무것도 출력하지 않는다.
