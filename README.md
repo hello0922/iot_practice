@@ -615,3 +615,8 @@ Rectangle과 Square는 아무런 연관이 없지만, 멤버 (변수 & 메소드
 ![result 7-7](hw3/7/result_img/7-7.png)
 
 예제 7-5, 7-6과 같지만, Square의 생성자를 Rectangle.call 메소드와 prototype = Rectangle로 연결하였기 때문에 __proto__는 Rectangle이 된다. 이로써, Rectangle과 Square는 체이닝 관계가 생성된다.
+
+### 7-8
+![result 7-8](hw3/7/result_img/7-8.png)
+
+extendClass1 이라는 함수를 생성해서, 상속을 받을 때 subclass의 prototype의 property들을 지우는 예제.
