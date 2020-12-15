@@ -645,3 +645,8 @@ Object.create 메소드를 사용하여, 상속을 구현하는 예제.
 ![result 7-13](hw3/7/result_img/7-13.png)
 
 예제 7-10에서, SubClass의 constructor를 연결해주는 예제.
+
+### 7-14
+![result 7-14](hw3/7/result_img/7-14.png)
+
+super 키워드를 사용하여서, extendClass 함수를 구현하는 예제.
