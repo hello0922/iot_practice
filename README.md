@@ -650,3 +650,8 @@ Object.create 메소드를 사용하여, 상속을 구현하는 예제.
 ![result 7-14](hw3/7/result_img/7-14.png)
 
 super 키워드를 사용하여서, extendClass 함수를 구현하는 예제.
+
+### 7-15
+![result 7-15](hw3/7/result_img/7-15.png)
+
+class {}의 constructor, static 메소드 등을 정의하여 테스트하는 예제. 실제 클래스의 staticMethod를 호출하면 this.name은 해당 클래스의 이름이 된다.
