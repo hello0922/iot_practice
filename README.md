@@ -620,3 +620,8 @@ Rectangle과 Square는 아무런 연관이 없지만, 멤버 (변수 & 메소드
 ![result 7-8](hw3/7/result_img/7-8.png)
 
 extendClass1 이라는 함수를 생성해서, 상속을 받을 때 subclass의 prototype의 property들을 지우는 예제.
+
+### 7-9
+![result 7-9](hw3/7/result_img/7-9.png)
+
+extendClass2 이라는 함수를 생성해서, 상속을 받을 때 Bridge라는 새로운 객체를 만들고, Bridge에 SuperClass를 연결하고 다시 SubClass에 Bridge를 연결하여 __proto__의 데이터를 없애게 한다.
