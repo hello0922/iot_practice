@@ -635,3 +635,8 @@ Object.create 메소드를 사용하여, 상속을 구현하는 예제.
 ![result 7-11](hw3/7/result_img/7-11.png)
 
 예제 7-8에서, SubClass의 constructor를 SubClass로 연결해주는 예제.
+
+### 7-12
+![result 7-12](hw3/7/result_img/7-12.png)
+
+예제 7-9에서, SubClass와 Bridge의 constructor를 연결해주는 예제.
