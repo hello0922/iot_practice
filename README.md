@@ -630,3 +630,8 @@ extendClass2 이라는 함수를 생성해서, 상속을 받을 때 Bridge라는
 ![result 7-10](hw3/7/result_img/7-10.png)
 
 Object.create 메소드를 사용하여, 상속을 구현하는 예제.
+
+### 7-11
+![result 7-11](hw3/7/result_img/7-11.png)
+
+예제 7-8에서, SubClass의 constructor를 SubClass로 연결해주는 예제.
