@@ -655,3 +655,8 @@ super 키워드를 사용하여서, extendClass 함수를 구현하는 예제.
 ![result 7-15](hw3/7/result_img/7-15.png)
 
 class {}의 constructor, static 메소드 등을 정의하여 테스트하는 예제. 실제 클래스의 staticMethod를 호출하면 this.name은 해당 클래스의 이름이 된다.
+
+### 7-16
+![result 7-16](hw3/7/result_img/7-16.png)
+
+extends 명령어를 통해서 바로 상속을 받아 class를 정의하는 예제. super 키워드를 사용하여 부모클래스의 객체 혹은 생성자에 접근할 수 있다.
